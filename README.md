@@ -1,26 +1,30 @@
 # nanopore-software
 A list of software for Oxford Nanopore data
 
-## Moving data
+### Moving data
 
 * Robocopy.exe
 
-## Basecalling
+```dos
+C:\Users\Mick> C:\Windows\System32\robocopy.exe C:\data\reads Z:\path\to\my\network\share /MIR /FFT /Z /XA:H /W:5
+```
 
-## QC
+### Basecalling
 
-## Extract data from FAST5
+### QC
 
-## Mapping / Aligning
+### Extract data from FAST5
 
-## Variant Calling
+### Mapping / Aligning
 
-## Assembly
+### Variant Calling
 
-## Polishing
+### Assembly
 
-## Scaffolding
+### Polishing
 
-## Structural variants
+### Scaffolding
 
-## Pipelines
+### Structural variants
+
+### Pipelines
