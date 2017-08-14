@@ -6,10 +6,9 @@ A list of software for Oxford Nanopore data
 * Robocopy.exe
   * Installed on all Windows machines
   * File synchronisation tool run from within the cmd.exe command prompt
-
-```dos
         C:\Users\Mick> C:\Windows\System32\robocopy.exe C:\data\reads Z:\path\to\my\network\share /MIR /FFT /Z /XA:H /W:5
-```
+
+
 
 ### Basecalling
 
