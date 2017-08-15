@@ -55,17 +55,33 @@ read_fast5_basecaller.py -i /vol/raw_fast5/ \
   * [code](https://github.com/rrwick/Porechop)
 
 ### Extract data from FAST5
+* poretools
+* poRe
+* NanoOK
 
 ### Mapping / Aligning
+* bwa mem
+* LAST
+* GraphMap
+* MiniMap2
+* NGMLR
 
 ### Variant Calling
+* Nanopolish
 
 ### Assembly
+* SPAdes
+* Minimap / miniasm
+* Canu
 
 ### Polishing
+* Nanopolish
 
 ### Scaffolding
+* SSPACE-LongReads
+* LINKS
 
 ### Structural variants
+* Sniffles 
 
 ### Pipelines
